@@ -1,2 +1,1 @@
-# Edu_Website
-Educational Website
+# Educational-Website
